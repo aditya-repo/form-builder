@@ -1,0 +1,23 @@
+{
+  "name": "form-builder",
+  "version": "1.0.0",
+  "description": "Custom form generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditya-repo/form-builder.git"
+  },
+  "keywords": [
+    "Form",
+    "Builder"
+  ],
+  "author": "Aditya Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditya-repo/form-builder/issues"
+  },
+  "homepage": "https://github.com/aditya-repo/form-builder#readme"
+}
